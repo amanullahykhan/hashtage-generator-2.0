@@ -1,14 +1,61 @@
-# Run and deploy your AI Studio app
+# 🚀 Professional Hashtag Generator
 
-This contains everything you need to run your app locally.
+An AI-powered web application that generates professional, high-quality hashtags from any text passage. Perfect for content creators, marketers, and influencers who want to boost engagement with optimized, context-aware hashtags.
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- 🔍 Contextual understanding of input passages
+- 🧠 AI-generated, high-ranking hashtags
+- ⚡ Fast and responsive UI built with Vite + React + TypeScript
+- 🌐 Mobile-friendly design
+- 📦 Lightweight and easy to deploy
 
+## 📸 Preview
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+![App Screenshot](./d6727e08-0db7-4677-8ac1-21656fbd6e5d.png)
+
+## 🛠️ Technologies Used
+
+- React
+- TypeScript
+- Vite
+- AI Studio / Google AI
+- Tailwind CSS (or custom CSS)
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/amanullahykhan/hashtage-generator-2.0.git
+cd hashtage-generator-2.0
+
+Visit http://localhost:5173 to view it in your browser.
+
+4. Mobile Preview
+Edit vite.config.ts to allow network access:
+
+ts
+Copy
+Edit
+export default defineConfig({
+  server: {
+    host: '0.0.0.0'
+  }
+});
+Then open http://<your-local-ip>:5173 on your phone (same Wi-Fi).
+
+🌍 Deployment
+You can deploy this app on any static hosting platform:
+
+Vercel
+
+Netlify
+
+Firebase Hosting
+
+🙋‍♂️ Author
+Made with ❤️ by Amanullah Khan
+
+📫 Connect with Me
+GitHub: github.com/amanullahykhan

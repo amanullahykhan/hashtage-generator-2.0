@@ -45,7 +45,7 @@ export default defineConfig({
 });
 Then open http://<your-local-ip>:5173 on your phone (same Wi-Fi).
 
-🌍 Deployment
+## 🌍 Deployment
 You can deploy this app on any static hosting platform:
 
 Vercel
@@ -54,7 +54,10 @@ Netlify
 
 Firebase Hosting
 
-🙋‍♂️ Author
+## LIVE DEMO
+https://hashtage-generator-2-0.vercel.app/
+
+##🙋‍♂️ Author
 Made with ❤️ by Amanullah Khan
 
 📫 Connect with Me

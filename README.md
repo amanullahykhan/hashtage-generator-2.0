@@ -22,6 +22,15 @@ An AI-powered web application that generates professional, high-quality hashtags
 - AI Studio / Google AI
 - Tailwind CSS (or custom CSS)
 
+## LIVE DEMO
+https://hashtage-generator-2-0.vercel.app/
+
+## 🙋‍♂️ Author
+Made with ❤️ by Amanullah Khan
+
+## 📫 Connect with Me
+GitHub: github.com/amanullahykhan
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -32,7 +41,7 @@ cd hashtage-generator-2.0
 
 Visit http://localhost:5173 to view it in your browser.
 
-4. Mobile Preview
+### 2. Mobile Preview
 Edit vite.config.ts to allow network access:
 
 ts
@@ -45,6 +54,7 @@ export default defineConfig({
 });
 Then open http://<your-local-ip>:5173 on your phone (same Wi-Fi).
 
+
 ## 🌍 Deployment
 You can deploy this app on any static hosting platform:
 
@@ -54,11 +64,5 @@ Netlify
 
 Firebase Hosting
 
-## LIVE DEMO
-https://hashtage-generator-2-0.vercel.app/
 
-##🙋‍♂️ Author
-Made with ❤️ by Amanullah Khan
 
-📫 Connect with Me
-GitHub: github.com/amanullahykhan
